@@ -12,7 +12,7 @@ Esses commits auxiliarão você e sua equipe a entenderem de forma facilitada qu
 
 Essa identificação ocorre por meio de uma palavra e emoji que identifica se aquele commit realizado se trata de uma alteração de código, atualização de pacotes, documentação, alteração de visual, teste...
 
-## 🦄 Tipo e Descrição
+## Tipo e Descrição
 
 O commit semântico possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
 
@@ -126,7 +126,7 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
     </tr>
     <tr>
       <td>Estilização de interface</td>
-      <td>💄 <code>:lipstick:</code></td>
+      <td>🎨 <code>:art:</code></td>
       <td><code>feat</code></td>
     </tr>
     <tr>
@@ -287,9 +287,9 @@ O commit semântico possui os elementos estruturais abaixo (tipos), que informam
     </tr>
     <tr>
       <td>
-        <code>git commit -m ":lipstick: feat: Estilizaçao CSS do formulario"</code>
+        <code>git commit -m ":art: feat: Estilizaçao CSS do formulario"</code>
       </td>
-      <td>💄 feat: Estilizaçao CSS do formulario</td>
+      <td>🎨 feat: Estilizaçao CSS do formulario</td>
     </tr>
     <tr>
       <td>
